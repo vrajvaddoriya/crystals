@@ -1,0 +1,9 @@
+.wplogo img{
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    right: 29px;
+    bottom: 55px;
+    cursor: pointer;
+    z-index: 555555;
+}
